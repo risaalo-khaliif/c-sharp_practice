@@ -1,0 +1,10 @@
+C:\Users\amrii\OneDrive\Documents\roomhotel\room\room\bin\Debug\room.exe.config
+C:\Users\amrii\OneDrive\Documents\roomhotel\room\room\bin\Debug\room.exe
+C:\Users\amrii\OneDrive\Documents\roomhotel\room\room\bin\Debug\room.pdb
+C:\Users\amrii\OneDrive\Documents\roomhotel\room\room\obj\Debug\room.csproj.AssemblyReference.cache
+C:\Users\amrii\OneDrive\Documents\roomhotel\room\room\obj\Debug\room.Form1.resources
+C:\Users\amrii\OneDrive\Documents\roomhotel\room\room\obj\Debug\room.Properties.Resources.resources
+C:\Users\amrii\OneDrive\Documents\roomhotel\room\room\obj\Debug\room.csproj.GenerateResource.cache
+C:\Users\amrii\OneDrive\Documents\roomhotel\room\room\obj\Debug\room.csproj.CoreCompileInputs.cache
+C:\Users\amrii\OneDrive\Documents\roomhotel\room\room\obj\Debug\room.exe
+C:\Users\amrii\OneDrive\Documents\roomhotel\room\room\obj\Debug\room.pdb
