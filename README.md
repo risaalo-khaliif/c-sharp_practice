@@ -1,5 +1,3 @@
-# c#sharp_practice
-c# pramaning
 # c-sharp pratice
 c# pragraming
 ## Course Information
@@ -124,5 +122,4 @@ Project-based learning
 ## Instructor / Coordinator
 
 Yahye Ali Isse Department of Computer Application Faculty of Computer & Information Technology Jamhuriya University of Science & Technology
-
 
